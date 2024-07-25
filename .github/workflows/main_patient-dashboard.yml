@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'patient-dashboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A3B5359B717F4FE2A4BE5BEDCA745D6B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D888BA763F04367A2C2E7BD3770B3D1 }}
           package: .
