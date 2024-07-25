@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'dcjobsite'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F1AEE57BE1D54455B562D3D699E00174 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B7182C7C2CE4BDD8B0DC91FE7D6CDE3 }}
           package: .
